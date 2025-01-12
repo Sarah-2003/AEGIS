@@ -133,18 +133,6 @@ The framework includes various visualization tools:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Citation
-
-If you use AEGIS in your research, please cite:
-
-```bibtex
-@article{AEGIS2024,
-    title={AEGIS: Adaptive Ensemble-based Guard for Intrusion Systems},
-    author={Kumar, Niharika Prasanna and Rajgoli, Sarah Rukhmuddin},
-    journal={Department of Information Science and Engineering},
-    year={2024}
-}
-```
 
 ## Acknowledgments
 
