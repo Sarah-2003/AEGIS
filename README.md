@@ -42,7 +42,7 @@ AEGIS is an advanced Intrusion Detection System (IDS) framework that utilizes en
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AEGIS.git
+git clone https://github.com/sarah-2003/AEGIS.git
 
 # Install required packages
 pip install -r requirements.txt
